@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       SEO settings
- * Plugin URI:        https://github.com/benjamin-gosset/mu-plugin-seo
+ * Plugin URI:        https://github.com/benjamin-gosset/bgo-mu-plugins
  * Description:       Add SEO related settings to WordPress
  * Version:           1.0
  * Author:            Benjamin Gosset
